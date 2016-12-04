@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "golf", "golf\golf.vcxproj", "{98535789-5A52-4A7F-88A3-1D7D0EFD5A5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98535789-5A52-4A7F-88A3-1D7D0EFD5A5D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98535789-5A52-4A7F-88A3-1D7D0EFD5A5D}.Debug|Win32.Build.0 = Debug|Win32
+		{98535789-5A52-4A7F-88A3-1D7D0EFD5A5D}.Release|Win32.ActiveCfg = Release|Win32
+		{98535789-5A52-4A7F-88A3-1D7D0EFD5A5D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

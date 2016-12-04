@@ -1,0 +1,28 @@
+﻿生成启动时间为 2016/11/23 22:23:41。
+     1>项目“F:\CProjec\第四章\intconv\intconv\intconv.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\intconv.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\intconv.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt intconv.cpp
+         intconv.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CProjec\第四章\intconv\Debug\intconv.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\intconv.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CProjec\第四章\intconv\Debug\intconv.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CProjec\第四章\intconv\Debug\intconv.lib" /MACHINE:X86 Debug\intconv.exe.embed.manifest.res
+         Debug\intconv.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\intconv.exe.embed.manifest" /manifest Debug\intconv.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         intconv.vcxproj -> F:\CProjec\第四章\intconv\Debug\intconv.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\intconv.unsuccessfulbuild”。
+         正在对“Debug\intconv.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\CProjec\第四章\intconv\intconv\intconv.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.18

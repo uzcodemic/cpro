@@ -1,0 +1,35 @@
+﻿生成启动时间为 2016/11/20 23:19:48。
+     1>项目“F:\CProjec\第三章\floaterr\floaterr\floaterr.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“F:\CProjec\第三章\floaterr\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\floaterr.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\floaterr.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\floaterr.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt floaterr.cpp
+         floaterr.cpp
+     1>f:\cprojec\第三章\floaterr\floaterr\floaterr.cpp(10): warning C4305: “=”: 从“double”到“float”截断
+     1>f:\cprojec\第三章\floaterr\floaterr\floaterr.cpp(11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\floaterr.exe.embed.manifest.res" Debug\floaterr_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CProjec\第三章\floaterr\Debug\floaterr.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\floaterr.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CProjec\第三章\floaterr\Debug\floaterr.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CProjec\第三章\floaterr\Debug\floaterr.lib" /MACHINE:X86 Debug\floaterr.exe.embed.manifest.res
+         Debug\floaterr.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\floaterr.exe.embed.manifest" /manifest Debug\floaterr.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\floaterr.exe.embed.manifest.res" Debug\floaterr_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CProjec\第三章\floaterr\Debug\floaterr.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\floaterr.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CProjec\第三章\floaterr\Debug\floaterr.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CProjec\第三章\floaterr\Debug\floaterr.lib" /MACHINE:X86 Debug\floaterr.exe.embed.manifest.res
+         Debug\floaterr.obj
+         Debug\stdafx.obj
+         floaterr.vcxproj -> F:\CProjec\第三章\floaterr\Debug\floaterr.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\floaterr.unsuccessfulbuild”。
+         正在对“Debug\floaterr.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\CProjec\第三章\floaterr\floaterr\floaterr.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.08

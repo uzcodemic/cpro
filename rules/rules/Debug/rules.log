@@ -1,0 +1,33 @@
+﻿生成启动时间为 2016/11/24 23:46:13。
+     1>项目“F:\CProjec\rules\rules\rules.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“F:\CProjec\rules\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\rules.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\rules.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\rules.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt rules.cpp
+         rules.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\rules.exe.embed.manifest.res" Debug\rules_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CProjec\rules\Debug\rules.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\rules.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CProjec\rules\Debug\rules.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CProjec\rules\Debug\rules.lib" /MACHINE:X86 Debug\rules.exe.embed.manifest.res
+         Debug\rules.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\rules.exe.embed.manifest" /manifest Debug\rules.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\rules.exe.embed.manifest.res" Debug\rules_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CProjec\rules\Debug\rules.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\rules.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CProjec\rules\Debug\rules.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CProjec\rules\Debug\rules.lib" /MACHINE:X86 Debug\rules.exe.embed.manifest.res
+         Debug\rules.obj
+         Debug\stdafx.obj
+         rules.vcxproj -> F:\CProjec\rules\Debug\rules.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\rules.unsuccessfulbuild”。
+         正在对“Debug\rules.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\CProjec\rules\rules\rules.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.67

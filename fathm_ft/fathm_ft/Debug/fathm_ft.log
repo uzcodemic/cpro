@@ -1,0 +1,28 @@
+﻿生成启动时间为 2016/11/17 0:35:28。
+     1>项目“F:\CProjec\fathm_ft\fathm_ft\fathm_ft.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\fathm_ft.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\fathm_ft.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt fathm_ft.cpp
+         fathm_ft.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CProjec\fathm_ft\Debug\fathm_ft.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\fathm_ft.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CProjec\fathm_ft\Debug\fathm_ft.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CProjec\fathm_ft\Debug\fathm_ft.lib" /MACHINE:X86 Debug\fathm_ft.exe.embed.manifest.res
+         Debug\fathm_ft.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\fathm_ft.exe.embed.manifest" /manifest Debug\fathm_ft.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         fathm_ft.vcxproj -> F:\CProjec\fathm_ft\Debug\fathm_ft.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\fathm_ft.unsuccessfulbuild”。
+         正在对“Debug\fathm_ft.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\CProjec\fathm_ft\fathm_ft\fathm_ft.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.47

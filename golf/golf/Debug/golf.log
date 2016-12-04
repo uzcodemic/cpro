@@ -1,0 +1,28 @@
+﻿生成启动时间为 2016/11/24 22:04:34。
+     1>项目“F:\CProjec\golf\golf\golf.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\golf.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\golf.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt golf.cpp
+         golf.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CProjec\golf\Debug\golf.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\golf.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CProjec\golf\Debug\golf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CProjec\golf\Debug\golf.lib" /MACHINE:X86 Debug\golf.exe.embed.manifest.res
+         Debug\golf.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\golf.exe.embed.manifest" /manifest Debug\golf.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         golf.vcxproj -> F:\CProjec\golf\Debug\golf.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\golf.unsuccessfulbuild”。
+         正在对“Debug\golf.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\CProjec\golf\golf\golf.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.39

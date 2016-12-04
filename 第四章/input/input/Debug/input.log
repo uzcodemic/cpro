@@ -1,0 +1,32 @@
+﻿生成启动时间为 2016/11/23 23:34:25。
+     1>项目“F:\CProjec\第四章\input\input\input.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\input.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\input.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt input.cpp
+         input.cpp
+     1>f:\cprojec\第四章\input\input\input.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\cprojec\第四章\input\input\input.cpp(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CProjec\第四章\input\Debug\input.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\input.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CProjec\第四章\input\Debug\input.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CProjec\第四章\input\Debug\input.lib" /MACHINE:X86 Debug\input.exe.embed.manifest.res
+         Debug\input.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\input.exe.embed.manifest" /manifest Debug\input.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         input.vcxproj -> F:\CProjec\第四章\input\Debug\input.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\input.unsuccessfulbuild”。
+         正在对“Debug\input.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\CProjec\第四章\input\input\input.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.70

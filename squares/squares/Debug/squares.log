@@ -1,0 +1,33 @@
+﻿生成启动时间为 2016/11/24 22:09:25。
+     1>项目“F:\CProjec\squares\squares\squares.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“F:\CProjec\squares\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\squares.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\squares.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\squares.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt squares.cpp
+         squares.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\squares.exe.embed.manifest.res" Debug\squares_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CProjec\squares\Debug\squares.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\squares.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CProjec\squares\Debug\squares.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CProjec\squares\Debug\squares.lib" /MACHINE:X86 Debug\squares.exe.embed.manifest.res
+         Debug\squares.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\squares.exe.embed.manifest" /manifest Debug\squares.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\squares.exe.embed.manifest.res" Debug\squares_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CProjec\squares\Debug\squares.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\squares.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CProjec\squares\Debug\squares.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CProjec\squares\Debug\squares.lib" /MACHINE:X86 Debug\squares.exe.embed.manifest.res
+         Debug\squares.obj
+         Debug\stdafx.obj
+         squares.vcxproj -> F:\CProjec\squares\Debug\squares.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\squares.unsuccessfulbuild”。
+         正在对“Debug\squares.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\CProjec\squares\squares\squares.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.34
