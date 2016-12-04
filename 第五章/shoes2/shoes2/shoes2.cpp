@@ -18,6 +18,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		//shoe = shoe + 1.0;
 	}																						//Ñ­»·½áÊø
 	printf("If hte shoe fits, wear it.\n");
+	printf("good boy!");
 	getchar();
 	return 0;
 }
